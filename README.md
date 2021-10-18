@@ -19,7 +19,7 @@ Final submissions will be due on **19 November 2021**. This will give you time t
 
 ## Top resources
 
-- About Call for Code: [Watch the video](https://video.ibm.com/channel/23888831/video/7g7kpz) [Learn more](https://developer.ibm.com/callforcode/)
+- About Call for Code: [Watch the video →](https://video.ibm.com/channel/23888831/video/7g7kpz), [Learn more →](https://developer.ibm.com/callforcode/)
 - Submission form: https://callforcode.typeform.com/to/zENn02ij
 - Slack workspace: https://ibmeyallianceteam.slack.com/archives/C02F246CU9L- #EY-Call-for-Code
 - Further starter kit resources: https://github.com/Call-for-Code?q=starter+kit&type=&language=&sort=
