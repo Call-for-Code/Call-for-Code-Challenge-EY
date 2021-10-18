@@ -8,19 +8,19 @@ Final submissions will be due on **19 November 2021**. This will give you time t
 ## Upcoming live events and replays 
 (Links will be posted as available)
 
-- **25 Oct 9AM EST**: Call for Code and EY Kickoff (watch the Replay)
-- **26 Oct 9AM-11.30AM EST**: Introduction to Cloud-Native Development(watch the Replay)
-- **28 Oct 9AM-11.30AM EST**: Learn how to develop and deploy apps with enterprise DevSecOps (watch the Replay)
-- **29 Oct 9AM-11.30AM EST**: Apply all we have learnt so far to develop a set of microservices and deploy them on OpenShift (watch the Replay)
-- **8 Nov 9AM-11.30AM EST**: IBM Data and AI portfolio(watch the Replay)
-- **10 Nov 9AM-11.30AM EST**:  IBM business automation portfolio(watch the Replay)
-- **12 Nov 9AM-11.30AM EST**:  IBM AI Apps (watch the Replay)
-- **13 Dec 9AM EST**: Call for Code and EY Award Ceremony (watch the Replay)
+- **25 Oct 9AM EST**: Call for Code and EY Kickoff (watch the replay)
+- **26 Oct 9AM-11:30AM EST**: Introduction to Cloud-Native Development(watch the replay)
+- **28 Oct 9AM-11:30AM EST**: Learn how to develop and deploy apps with enterprise DevSecOps (watch the replay)
+- **29 Oct 9AM-11:30AM EST**: Apply all we have learnt so far to develop a set of microservices and deploy them on OpenShift (watch the replay)
+- **08 Nov 9AM-11:30AM EST**: IBM Data and AI portfolio(watch the replay)
+- **10 Nov 9AM-11:30AM EST**:  IBM business automation portfolio(watch the replay)
+- **12 Nov 9AM-11:30AM EST**:  IBM AI Apps (watch the replay)
+- **13 Dec 9AM EST**: Call for Code and EY Award Ceremony (watch the replay)
 
 ## Top resources
 
-- About Call for Code: https://developer.ibm.com/callforcode/?cm_sp=Developer-_-cfc-2020-_-nav-ov75914
-- Submission Form: https://callforcode.typeform.com/to/zENn02ij
+- About Call for Code: [Watch the video](https://video.ibm.com/channel/23888831/video/7g7kpz) [Learn more](https://developer.ibm.com/callforcode/)
+- Submission form: https://callforcode.typeform.com/to/zENn02ij
 - Slack workspace: https://ibmeyallianceteam.slack.com/archives/C02F246CU9L- #EY-Call-for-Code
 - Further starter kit resources: https://github.com/Call-for-Code?q=starter+kit&type=&language=&sort=
 
