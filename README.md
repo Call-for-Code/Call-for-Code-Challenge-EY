@@ -30,10 +30,10 @@ Final submissions will be due on **19 November 2021**. This will give you time t
 Items to keep in mind:
 - Challenge is open to EY employees only
 - The maximum team size is 5
-- Participants must be registered by October 20, 2021
+- Participants must be registered by October 25, 2021
 - No team mergers are allowed
 - No sharing of notebooks and models privately between teams unless you make the content available to all
-- At some point during the contest, an IBM tool such as Watson Studio or AutoAI should be used during the model development, training, etc.
+
 
 Make the most of your participation:
 1. Attend enablement sessions or watch the replays
