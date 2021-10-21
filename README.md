@@ -39,3 +39,5 @@ Make the most of your participation:
 1. Attend enablement sessions or watch the replays
 2. Attend office hours sessions and ask questions
 3. Get connected with a mentor
+
+If you have any other questions, please reach out to Megan Cardaro - EY (Megan.Cardaro@ey.com) or Gilda Doria - IBM (ggdoria@us.ibm.com). Let's get building!
