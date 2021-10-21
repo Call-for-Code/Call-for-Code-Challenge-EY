@@ -41,3 +41,9 @@ Make the most of your participation:
 3. Get connected with a mentor
 
 If you have any other questions, please reach out to Megan Cardaro - EY (Megan.Cardaro@ey.com) or Gilda Doria - IBM (ggdoria@us.ibm.com). Let's get building!
+
+FAQs:
+-Each session will be recorded so that you can watch later if the live event timing does not work for you.
+-You do not have to be a developer to participate, all areas are encouraged to join whether your skill set is in user design, business process, technology consulting, etc.
+-The estimate of hours varies depending on your teaming, the complexity of your project you develop, etc. We estimate on top of the 18 hours of learning over the 4 weeks, you will need a minimum of 5-10 hours of effort each week.
+-Success is measured by a judging panel – both with an IBM technical team and then internal EY leadership. The winner will be picked based on their creative solution as it relates to solving a sustainability issue (that you choose).  Understanding that not everyone is a developer, the ‘solution’ could be an actual build or a prototype of what you would build (e.g., put it in PPT) using the tools taught during the challenge.
