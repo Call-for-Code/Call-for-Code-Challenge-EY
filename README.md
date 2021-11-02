@@ -5,17 +5,17 @@
 
 Final submissions will be due on **19 November 2021**. This will give you time to improve your code for the final submission.
 
-## Upcoming live events and replays 
-(Links will be posted as available)
+## Upcoming live events 
+All sessions will be available at https://video.ibm.com/channel/DaSMWhYPrug
 
-- **25 Oct 9AM EST**: Call for Code and EY Kickoff (watch the replay)
-- **26 Oct 9AM-11:30AM EST**: Introduction to Cloud-Native Development(watch the replay)
-- **28 Oct 9AM-11:30AM EST**: Learn how to develop and deploy apps with enterprise DevSecOps (watch the replay)
-- **29 Oct 9AM-11:30AM EST**: Apply all we have learned so far to develop a set of microservices and deploy them on OpenShift (watch the replay)
-- **08 Nov 9AM-11:30AM EST**: IBM Data and AI portfolio(watch the replay)
-- **10 Nov 9AM-11:30AM EST**:  IBM business automation portfolio(watch the replay)
-- **12 Nov 9AM-11:30AM EST**:  IBM AI Apps (watch the replay)
-- **13 Dec 9AM EST**: Call for Code and EY Award Ceremony (watch the replay)
+- **25 Oct 9AM EST**: Call for Code and EY Kickoff
+- **26 Oct 9AM-11:30AM EST**: Introduction to Cloud-Native Development
+- **28 Oct 9AM-11:30AM EST**: Learn how to develop and deploy apps with enterprise DevSecOps 
+- **29 Oct 9AM-11:30AM EST**: Apply all we have learned so far to develop a set of microservices and deploy them on OpenShift
+- **08 Nov 9AM-11:30AM EST**: IBM Data and AI portfolio
+- **10 Nov 9AM-11:30AM EST**:  IBM business automation portfolio
+- **12 Nov 9AM-11:30AM EST**:  IBM AI Apps
+- **13 Dec 9AM EST**: Call for Code and EY Award Ceremony
 
 ## Top resources
 
