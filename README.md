@@ -6,7 +6,7 @@
 Final submissions will be due on **19 November 2021**. This will give you time to improve your code for the final submission.
 
 ## Upcoming live events 
-All sessions will be available at https://video.ibm.com/channel/DaSMWhYPrug
+All sessions will be available at https://video.ibm.com/channel/DaSMWhYPrug (Password: ESG-Challenge)
 
 - **25 Oct 9AM EST**: Call for Code and EY Kickoff
 - **26 Oct 9AM-11:30AM EST**: Introduction to Cloud-Native Development
